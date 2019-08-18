@@ -1,0 +1,151 @@
+body {
+color: #40514E;
+  margin: 0;
+  text-align: center;
+}
+
+.topcontainer {
+  background-color: #e0ebe8;
+  padding-top: 70px;
+  line-height: 1;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 30px;
+}
+
+.cloud {
+  position: absolute;
+}
+
+.cloud-one {
+  position: relative;
+  left: 315px;
+  bottom: 30px;
+  width: 200px;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 3.9375rem;
+  color: #66BFBF;
+  font-weight: lighter;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Julius Sans One', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  font-family: 'Julius Sans One', sans-serif;
+  margin: auto 10px;
+  text-decoration: none
+}
+a:hover{
+  color: pink;
+}
+
+.col {
+  width: 25%;
+  margin: auto;
+}
+
+.paragraphone {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2rem;
+  color: #35b0ab;
+  margin-bottom: 100px;
+  font-weight: normal;
+}
+
+.imgirl {
+  width: 100px;
+  padding-top: 30px
+}
+
+.imgskills {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.imgskills2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+p {
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 2;
+}
+
+.help {
+  margin-bottom: 60px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  width: 25%;
+  margin: auto;
+}
+
+.mountain {
+  width: 800px;
+  vertical-align: middle;
+  border: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Nat {
+  color: #EAF6F6;
+  font-size: 15px;
+  padding: 20px 0 20px 0;
+}
+
+.footer-link {
+  color: #badfdb;
+}
+
+.contact-me {
+  margin-bottom: 60px;
+  padding-bottom: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+  color: #f5f5f5;
+  font-size: 18px;
+  padding: 12px;
+  background: #66BFBF;
+  text-decoration: none;
+}
+
+/*colors: https://colorhunt.co/palette/147299 */
